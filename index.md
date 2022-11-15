@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Nikola Tesla
+# Nikola Tesla de uitvinder
 
 Nikola Tesla was an inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern `alternating current (AC) electricity supply system`.  
 
